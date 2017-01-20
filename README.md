@@ -5,6 +5,7 @@
 * [Генератор HTML-дерева](http://yoksel.github.io/html-tree/)
 * [Pixel Glass](https://github.com/yoksel/pixel-glass-js/)
 * [HTMLA project checker extension](https://github.com/yoksel/htmla-project-checker)
+* [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
 
 ## Материалы
 
