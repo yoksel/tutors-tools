@@ -2,10 +2,11 @@
 
 ## Инструменты
 
-* [Генератор HTML-дерева](http://yoksel.github.io/html-tree/)
-* [Pixel Glass](https://github.com/yoksel/pixel-glass-js/)
-* [HTMLA project checker extension](https://github.com/yoksel/htmla-project-checker)
-* [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en)
+* [CSS syntax validator](https://csstree.github.io/docs/validator.html) — валидация CSS
+* [Генератор HTML-дерева](http://yoksel.github.io/html-tree/) — строит структуру документа, подсвечивает ошибки БЭМ-разметки, показывает дерево заголовков
+* [Pixel Glass](https://github.com/yoksel/pixel-glass-js/) — инструмент для проверки разметки на соответствие макетам
+* [HTMLA project checker extension](https://github.com/yoksel/htmla-project-checker) — плагин для подсветки чеклиста финальной проверки проекта
+* [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) — плагин для управления скоростью воспроизведения видео
 
 ## Материалы
 
