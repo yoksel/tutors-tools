@@ -6,6 +6,7 @@
 * [Генератор HTML-дерева](http://yoksel.github.io/html-tree/) — строит структуру документа, подсвечивает ошибки БЭМ-разметки, показывает дерево заголовков
 * [Pixel Glass](https://github.com/yoksel/pixel-glass-js/) — инструмент для проверки разметки на соответствие макетам
 * [Zeplin](https://zeplin.io/) — инструмент позволяет просматривать (предварительно загруженные) PSD-макеты не открывая фотошоп; также можно вынести макет в отдельное полупрозрачное окно, чтобы накладывать его поверх окна браузера (любого браузера)
+* [Avocode](https://avocode.com/) — программа для удобного просмотра макетов. Умеет показывать CSS-свойства выбранного объекта (текста, кнопки и т.д.).
 * [HTMLA project checker extension](https://github.com/yoksel/htmla-project-checker) — плагин для подсветки чеклиста финальной проверки проекта
 * [Video Speed Controller](https://chrome.google.com/webstore/detail/video-speed-controller/nffaoalbilbmmfgbnbgppjihopabppdk?hl=en) — плагин для управления скоростью воспроизведения видео
 
