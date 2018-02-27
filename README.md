@@ -21,3 +21,4 @@
 
 * [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words) от [yoksel](https://github.com/yoksel)
 * [Простые правила разметки](http://yoksel.github.io/easy-markup/) от [yoksel](https://github.com/yoksel)
+* [HTML & CSS: как не надо](http://yoksel.github.io/bad-practices/) от [yoksel](https://github.com/yoksel)
